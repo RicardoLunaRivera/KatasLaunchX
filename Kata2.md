@@ -36,7 +36,7 @@ Crea un entorno virtual mediante ``venv``
 
 Ahora ves en tu terminal ``(env)``. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
- ![img](./images/env_activo.jpg)
+ ![img](./images/env_activo.JPG)
 
 ## Instalar una biblioteca
 
