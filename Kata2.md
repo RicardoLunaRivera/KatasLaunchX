@@ -50,7 +50,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
 
     No deberías obtener respuesta. A continuación, veamos cómo cambia la salida de ``pip freeze`` cuando se agrega una biblioteca (un paquete).
  
- ![img](./images/freeze.jpg)
+ ![img](./images/freeze.JPG)
 
 * Ejecuta el comando ``pip install`` para instalar una biblioteca:
    ```
@@ -61,7 +61,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     ```
     Successfully installed python-dateutil-2.8.2 six-1.16.0
     ```
- ![img](./images/successfully.jpg)
+ ![img](./images/successfully.JPG)
 * Vuelve a ejecutar ```pip freeze``` para ver cómo ha cambiado tu lista de bibliotecas:
     ```
     pip freeze
@@ -72,7 +72,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
     six==1.16.0
     ```
 
- ![img](./images/freeze2.jpg)
+ ![img](./images/freeze2.JPG)
 
 ### Desactivar un entorno virtual
 
@@ -85,7 +85,7 @@ deactivate
 
 Observa cómo cambia el mensaje de tu terminal ``(env)`` a cómo se veía antes.
 
- ![img](./images/desactivate.jpg)
+ ![img](./images/desactivate.JPG)
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
 
